@@ -1,15 +1,25 @@
 {
-    "hello": "dolly.txt",
+    "hello": "hello.txt",
     "contents": [
         {
-            "title": "blah",
-            "author": "me",
-            "directory": "testtest"
+            "title": "small cat",
+            "author": "jgs",
+            "directory": "smallcat"
         },
         {
-            "title": "another one",
-            "author": "also me",
-            "directory": "theotherone"
+          "title": "walking",
+          "author": "unknown",
+          "directory": "walking"
+        },
+        {
+          "title": "sitting",
+          "author": "jgs",
+          "directory": "sitting"
+        },
+        {
+          "title": "moon",
+          "author": "jgs",
+          "directory": "moon"
         }
     ]
 }
